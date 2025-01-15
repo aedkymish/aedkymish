@@ -5,11 +5,11 @@
 <div style="display: flex; align-items: center;">
   <div style="flex: 40%; text-align: right;">
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right">
-  </div>
+  </div><br/><br/><br/>
   <div style="flex: 60%;">
     I'm a passionate <b>Mobile Applications Developer</b> with expertise in building cross-platform apps using <b>Flutter</b> and native Android apps using <b>Java</b>. I hold a <b>Bachelor's degree in Mobile Computing</b> which has provided me with a strong foundation in mobile technologies and software development. I also specialize in UI/UX design using <b>Figma</b> and <b>Adobe XD</b>, and I develop backend systems using <b>Python (Django)</b> and <b>PHP</b>. I have experience working with databases like <b>PostgreSQL</b> <b>MySQL</b> and <b>Firebase</b> and I manage servers using <b>Linux</b> and <b>Nginx</b>.
   </div>
-</div><br/><br/><br/><br/><br/><br/><br/>
+</div><br/><br/><br/><br/>
 
 ---
 
