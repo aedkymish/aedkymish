@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Ali Edkymish
 ---
+## 📱 Mobile Developer | Bachelor's in Mobile Computing
 
 ## 🛠 Skill Badges
 
@@ -32,8 +33,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
 ---
-
-## 📱 Mobile Developer | Bachelor's in Mobile Computing
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 40%; text-align: right;">
