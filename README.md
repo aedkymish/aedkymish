@@ -2,8 +2,7 @@
 
 ## 📱 Mobile Developer | Bachelor's in Mobile Computing
 
-I'm a passionate **Mobile Applications Developer** with expertise in building cross-platform apps using **Flutter** and native Android apps using **Java**. I hold a **Bachelor's degree in Mobile Computing**, which has provided me with a strong foundation in mobile technologies and software development. I also specialize in UI/UX design using **Figma** and **Adobe XD**, and I develop backend systems using **Python (Django)** and **PHP**. I have experience working with databases like **PostgreSQL**, **MySQL**, and **Firebase**, and I manage servers using **Linux** and **Nginx**. 
-![GIF](https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif)
+I'm a passionate **Mobile Applications Developer** with expertise in building cross-platform apps using **Flutter** and native Android apps using **Java**. I hold a **Bachelor's degree in Mobile Computing**, which has provided me with a strong foundation in mobile technologies and software development. I also specialize in UI/UX design using **Figma** and **Adobe XD**, and I develop backend systems using **Python (Django)** and **PHP**. I have experience working with databases like **PostgreSQL**, **MySQL**, and **Firebase**, and I manage servers using **Linux** and **Nginx**. <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="50" align="right">
 
 ---
 
