@@ -19,7 +19,7 @@ I'm a passionate **Mobile Applications Developer** with expertise in building cr
 ### 📫 Let's Connect:
 
 - **Email**: [edkymish@email.com](mailto:edkymish@email.com)
-- **LinkedIn**: [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/ali-edkymish/))
+- **LinkedIn**: [Ali Edkymish]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/ali-edkymish/))
 
 ---
 
