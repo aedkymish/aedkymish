@@ -3,7 +3,7 @@
 ## 📱 Mobile Developer | Bachelor's in Mobile Computing
 
 ## 🛠 Skill Badges
-
+![OWASP Member](https://img.shields.io/badge/OWASP_Member-2755654-000000?style=for-the-badge&logo=owasp&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -58,7 +58,8 @@
 ### 📫 Let's Connect:
 
 - **Email**: [edkymish@email.com](mailto:edkymish@email.com)
-- **LinkedIn**: [Ali Edkymish]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/ali-edkymish/))
+- **OWASP Member**: [ali.edkymish@owasp.org](mailto:ali.edkymish@owasp.org) — Membership ID: `2755654`
+- **LinkedIn**: [Ali Edkymish](https://www.linkedin.com/in/ali-edkymish/)
 
 ---
 
